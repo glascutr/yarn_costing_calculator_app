@@ -1,6 +1,14 @@
-# yarn_costing_calculator_app
+# Yarn Costing Calculator
 
-A new Flutter project.
+Yarn Costing Calculator is a Flutter application for estimating yarn costs and margins across platforms.
+
+## Quick start (users)
+
+- Prerequisites: Install Flutter SDK (https://docs.flutter.dev/get-started/install).
+- Get dependencies: `flutter pub get`
+- Run on a device/emulator: `flutter run -d <device-id>`
+
+See `CLAUDE.md` for developer guidance.
 
 ## Getting Started
 
